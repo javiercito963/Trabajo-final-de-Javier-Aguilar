@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DB
+comment1.params=cl
+comment1.target=void\ registrarClientes(Clientes)
+comment2.params=pd
+comment2.target=void\ registrarProductos(Productos)
+comment3.params=ps
+comment3.target=void\ registrarPedidos(Pedidos)
+comment4.params=us
+comment4.target=void\ registrarUsuario(Usuario)
+comment5.params=pos
+comment5.target=Clientes\ clientesPos(int)
+comment6.params=pos
+comment6.target=Productos\ productosPos(int)
+comment7.params=pos
+comment7.target=Pedidos\ pedidosPos(int)
+comment8.params=pos
+comment8.target=Usuario\ usuarioPos(int)
+numComments=9

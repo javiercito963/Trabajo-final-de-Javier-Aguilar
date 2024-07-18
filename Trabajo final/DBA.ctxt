@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=DBA
+comment1.params=c
+comment1.target=void\ setClientes(Clientes)
+comment10.params=us
+comment10.target=void\ setUsuario(Usuario)
+comment11.params=pos
+comment11.target=Usuario\ getUsuarioPos(int)
+comment12.params=usu
+comment12.target=boolean\ existeUsuario(Usuario)
+comment2.params=pos
+comment2.target=Clientes\ getClientesPos(int)
+comment3.params=a
+comment3.target=void\ getClientes(Clientes)
+comment4.params=p
+comment4.target=void\ setProductos(Productos)
+comment5.params=pos
+comment5.target=Productos\ getProductos(int)
+comment6.params=p
+comment6.target=void\ getProductos(Productos)
+comment7.params=s
+comment7.target=void\ setPedidos(Pedidos)
+comment8.params=pos
+comment8.target=Pedidos\ getPedidos(int)
+comment9.params=s
+comment9.target=void\ getPedidos(Pedidos)
+numComments=13
